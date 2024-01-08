@@ -37,6 +37,7 @@ En este repertorio subiré las reseñas y crearé configuraciones de horarios pr
 - ⚖️ Justo
 - 👹 Injusto
 - 👿 Pesado
+- ✨ Puntos extra
 
 </details>
 
@@ -67,6 +68,7 @@ En este repertorio subiré las reseñas y crearé configuraciones de horarios pr
 
 - ✍ Presencial
 - 💻 En línea
+- 💼 Mixta
 - 👻 No se presenta
 
 </details>
@@ -74,16 +76,17 @@ En este repertorio subiré las reseñas y crearé configuraciones de horarios pr
 <details>
 <summary>Asistencia</summary>
 
-- 🛎️ No falta
+- ⏱️ No falta
 - ⌚ Falta poco
 - 🛏️ Falta seguido
 - ⚰️ Falta mucho
 - 👻 No va
 - 🛎️ Puntual
 - ⏳ Llega tarde
-- 🔔 Avisa si hay clase
-- 🔕 No avisa si hay clase
+- 🔔 Avisa si no hay clase
+- 🔕 No avisa si no hay clase
 - 📝 Asistencia obligatoria
+- 🏝️ Asistencia no obligatoria
 
 </details>
 
