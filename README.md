@@ -161,3 +161,30 @@ En este repertorio subiré las reseñas y crearé configuraciones de horarios pr
 - Programación de Bajo Nivel: IL358
 
 </details>
+
+<details>
+<summary>Séptimo Semestre</summary>
+
+- Teoría de la Computación: IL357
+- Seminario de Integración de Desarrollo: IL370
+- Laboratorio Abierto: Diseño: IL372
+
+</details>
+
+<details>
+<summary>Octavo Semestre</summary>
+
+- Compiladores: IL359
+- Seguridad en la Información: IL368
+- Laboratorio Abierto: Construcción: IL373
+
+</details>
+
+<details>
+<summary>Noveno Semestre</summary>
+
+- Programación Paralela y Concurrente: IL360
+- Seminario de Integración Comnicación: IL371
+- Laboratorio Abierto: Prueba: IL374
+
+</details>
