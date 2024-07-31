@@ -1,8 +1,7 @@
 # Tercero ICOM (2023-A)
 
-
 | Clave |  NRC   |                  Materia                  | Días  |    Horas     | Maestro                            |
-|:-----:|:------:|:-----------------------------------------:|:-----:|:------------:| ---------------------------------- |
+| :---: | :----: | :---------------------------------------: | :---: | :----------: | ---------------------------------- |
 | I5289 | 195116 |     Programación Orientada a Objetos      | L y I | 11:00 - 1:00 | MORALES LOPEZ, LUIS ANGEL          |
 | IB056 | 197389 |              Álgebra Lineal               | M y J | 5:00 - 7:00  | VILLALOBOS JIMENEZ, SARA EDITH     |
 | IL347 | 197384 |         Ecuaciones Diferenciales          | L y I | 1:00 - 3:00  | VAZQUEZ HERNANDEZ, HUSAI           |

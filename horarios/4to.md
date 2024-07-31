@@ -3,7 +3,7 @@
 ## Opción 1
 
 | Clave |           Materia            |  NRC   |   Días   |     Horas     | Maestro                        |
-|:-----:|:----------------------------:|:------:|:--------:|:-------------:| ------------------------------ |
+| :---: | :--------------------------: | :----: | :------: | :-----------: | ------------------------------ |
 | IL354 |     Estructura de datos      | 200219 | L, Mi, V |  7:00 - 9:00  | GUTIERREZ HERNANDEZ, ALFREDO   |
 | IB067 |  Probabilidad y estadística  | 178862 |  Mi, V   | 11:00 - 1:00  | SANTIAGO HERNANDEZ, ELOISA     |
 | IL348 |      Métodos numéricos       | 200062 |  L, Mi   | 17:00 - 18:55 | GONZALEZ SOLIS, FERNANDO RENAN |
@@ -14,7 +14,7 @@
 ## Opción 2
 
 | Clave |           Materia            |  NRC   |   Días   |     Horas     | Maestro                           |
-|:-----:|:----------------------------:|:------:|:--------:|:-------------:| --------------------------------- |
+| :---: | :--------------------------: | :----: | :------: | :-----------: | --------------------------------- |
 | IL354 |     Estructura de datos      | 200220 | L, Mi, V | 17:00 - 19:00 | GUERRERO CARLOS, ANA JAZMIN       |
 | IB067 |  Probabilidad y estadística  | 178862 |  Mi, V   | 11:00 - 1:00  | SANTIAGO HERNANDEZ, ELOISA        |
 | IL348 |      Métodos numéricos       | 200060 |  L, Mi   | 15:00 - 17:00 | VALDIVIA BAUTISTA, SANDRA MINERVA |
@@ -47,7 +47,6 @@
 2. OPEZ ARCE DELGADO, JORGE ERNESTO - 200204
 3. MEZA ESPINOSA, JOSE JUAN
 4. MUÑOZ MENDOZA, LUIS FELIPE
-
 
 ### Programación para internet - IL362
 

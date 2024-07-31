@@ -15,7 +15,7 @@ type: Note
 ## Programación Estructurada - IL352
 
 |            Profesores            | Comentarios | Visto bueno | V_Medio | V_Malo |
-|:--------------------------------:| ----------- |:-----------:|:-------:|:------:|
+| :------------------------------: | ----------- | :---------: | :-----: | :----: |
 |        Gerardo Gil García        |             |             |         |        |
 |    Alma Gloria Vazquez Narez     |             |             |         |        |
 | Gónzalo Alejandro Ramírez Gaytan |             |             |         |        |
@@ -31,7 +31,7 @@ type: Note
 ## Matemáticas Discretas - IL345
 
 |            Profesores            | Comentarios                                                                               | Visto bueno | V_Medio | V_Malo |
-|:--------------------------------:| ----------------------------------------------------------------------------------------- |:-----------:|:-------:|:------:|
+| :------------------------------: | ----------------------------------------------------------------------------------------- | :---------: | :-----: | :----: |
 |    Elizabeth Aceves Fernandez    | "Enseñan muy bien"                                                                        |      1      |    0    |   0    |
 |       Dalmiro García Nava        |                                                                                           |             |         |        |
 |  Sara Edith Villalobos Jimenez   | "Es la mejor, aprendes excelente, te resuelve todas tus dudas y sus exámenes son fáciles" |      1      |    0    |   0    |
@@ -44,7 +44,7 @@ type: Note
 ## Cálculo diferencial e Integral - IL344
 
 |            Profesores            | Comentarios                                                                                                                                                                                                                                                                                                                                                          | Visto bueno | V_Medio | V_Malo |
-|:--------------------------------:| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:-----------:|:-------:|:------:|
+| :------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :-----: | :----: |
 |  Omar Vladimir Macias Sandoval   | Bueno explicando. "Chulada de maestro"; se siente muy tranquilo trabajar con él, te resuelve todas las dudas; da las 2 h,tanto en presencial como en virtual. "80 sus examenes, y 20 las tareas, pero los examenes los saca de las tareas, si las haces bien y comprendes las tareas y las formulas esta papeado". Te dedica el tiempo que necesites para entenderlo |      4      |    0    |   0    |
 |  Maritza Elizabeth Lopez Alcala  | "Lo que le sigue de barco; uando yo llevé con ella faltaba seguido, cada dos semanas faltaba al menos una vez o dos, y a veces hasta tres, no enseñaba bien, eso si, estaban relax las tareas y exámenes "                                                                                                                                                           |      0      |    0    |   2    |
 | Féderico Antonio Huerta Cisneros | "Suicidio, no agendar para nada"                                                                                                                                                                                                                                                                                                                                     |      0      |    0    |   1    |
@@ -55,7 +55,7 @@ type: Note
 ## Mecánica - IL343
 
 |           Profesores            | Comentarios                                                                                              | Visto bueno | V_Medio | V_Malo |
-|:-------------------------------:| -------------------------------------------------------------------------------------------------------- |:-----------:|:-------:|:------:|
+| :-----------------------------: | -------------------------------------------------------------------------------------------------------- | :---------: | :-----: | :----: |
 |  Carlos Daniel Vazquez Inzunza  | Enseña bien y califica justo. Enseña de todo, responde hasta la más mínima duda y retroalimenta trabajos |      2      |    0    |   0    |
 |    Alma Lucía Pelayo Pelayo     | Va muy rápido, puedes quedarte atrás y a veces da puntos extra.                                          |      0      |    1    |   0    |
 | Mayra Elizabeth García Sánchez  |                                                                                                          |      1      |    0    |   0    |
@@ -67,7 +67,7 @@ type: Note
 ## Administración de proyestos tecnológicos - IL353
 
 |            Profesores             | Comentarios                                                                    | Visto bueno | V_Medio | V_Malo |
-|:---------------------------------:| ------------------------------------------------------------------------------ |:-----------:|:-------:|:------:|
+| :-------------------------------: | ------------------------------------------------------------------------------ | :---------: | :-----: | :----: |
 |   Guzmán Montes Carlos Alberto    |                                                                                |             |         |        |
 |       Eduardo Mendez Palos        |                                                                                |             |         |        |
 | Mauricio Rodolfo Arreola Gónzalez |                                                                                |      1      |    0    |   0    |
@@ -77,7 +77,7 @@ type: Note
 ## Expresión oral y escrita - LT251
 
 |          Profesores           | Comentarios | Visto bueno | V_Medio | V_Malo |
-|:-----------------------------:| ----------- |:-----------:|:-------:|:------:|
+| :---------------------------: | ----------- | :---------: | :-----: | :----: |
 |  Adriana Liset López Franco   | Barco       |      1      |    0    |   0    |
 | Norma Estela Sandoval Alvarez |             |             |         |        |
 | José Luis Guerrero Contreras  |             |             |         |        |
