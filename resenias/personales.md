@@ -2,14 +2,14 @@
 title: Reseñas ICOM
 author: Alan Yahir Juárez Rubio
 aliases:
-    - Reseña
-    - feedback
+  - Reseña
+  - feedback
 tags:
-    - profesor
-    - reseñas
-    - icom
-    - agenda
-    - semestre
+  - profesor
+  - reseñas
+  - icom
+  - agenda
+  - semestre
 creation date: 01-06-2023
 last modification date: 25-05-2024
 ---
