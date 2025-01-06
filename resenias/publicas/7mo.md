@@ -1,0 +1,22 @@
+# Séptimo ICOM (2025-A)
+
+## Teoría de la Computación: IL357
+
+|            Profesor             | Calificación | Enseñanza | Evaluación | Flexibilidad | Personalidad | Modalidad | Asistencia | Rúbrica | Notas | Reseñas                                                                                                                                                                                                                                                                                                                                        |
+| :-----------------------------: | :----------: | :-------: | :--------: | :----------: | :----------: | :-------: | :--------: | :------ | :---: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     ESPINOZA VALDEZ, AURORA     |      ⭐      |    🧠     |            |              |              |           |     📝     |         |       | [1](https://www.misprofesores.com/profesores/Aurora-Espinoza-Valdez_139763) [2](https://www.facebook.com/groups/155476074566297/posts/4079829772130888/) [3](https://www.facebook.com/groups/155476074566297/posts/4085445741569291/) [4](https://www.facebook.com/groups/155476074566297/posts/1528704343910123/?comment_id=1529886527125238) |
+|     GOMEZ ANDRADE, ABELARDO     |      ⭐      |           |            |      ✋      |      🥱      |           |            |         |       | [1](https://www.misprofesores.com/profesores/Abelardo-Gomez-Andrade_139781)                                                                                                                                                                                                                                                                    |
+|      TORRES RAMOS, SULEMA       |      👍      |           |   👿 ⚖️    |              |      😡      |           |     📝     |         |       | [1](https://www.misprofesores.com/profesores/Sulema-Torres-Ramos_86990) [2](https://www.facebook.com/groups/155476074566297/posts/1528704343910123/) [3](https://www.facebook.com/groups/155476074566297/posts/1528704343910123/?comment_id=1528710363909521)                                                                                  |
+| RODRIGUEZ ACOSTA, LUIS FERNANDO |      🤔      |    ✅     |            |              |              |           |     📝     |         |       | [1](https://www.misprofesores.com/profesores/Luis-Fernando-Rodriguez-Acosta_139764) [2](https://www.facebook.com/groups/155476074566297/posts/5705987526181763/?comment_id=5705991009514748) [3](https://www.facebook.com/groups/155476074566297/posts/6943855345728302/?comment_id=6944183555695481)                                          |
+
+## Seminario de Integración de Desarrollo: IL370
+
+|           Profesor           | Calificación | Enseñanza | Evaluación | Flexibilidad | Personalidad | Modalidad | Asistencia | Rúbrica | Notas | Reseñas                                                                                                                                             |
+| :--------------------------: | :----------: | :-------: | :--------: | :----------: | :----------: | :-------: | :--------: | :------ | :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
+| GARCIA DE LIRA, SONIA JAZMIN |              |           |            |              |              |           |            |         |       | [1](https://www.facebook.com/groups/155476074566297/posts/7961841497263010/?comment_id=7988362094610950)                                            |
+|      GOMEZ VEGA, SERGIO      |              |           |            |              |              |           |            |         |       | [1](https://www.misprofesores.com/profesores/Sergio-Gomez-Vega_178840) [2](https://www.facebook.com/groups/155476074566297/posts/6424539047659937/) |
+
+## Laboratorio Abierto: Diseño: IL372
+
+Mismos profes que
+[Seminario de Integración de Desarrollo: IL370](#seminario-de-integración-de-desarrollo-il370).
